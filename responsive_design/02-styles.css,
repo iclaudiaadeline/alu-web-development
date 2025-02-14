@@ -1,0 +1,27 @@
+.body {
+   display: flex;
+   flex-direction: column;
+   background-color: beige;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    box-shadow: none;
+}
+.article {
+    flex: 2;
+    overflow-y: auto;
+    color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.aside {
+    flex: 1;
+    overflow-y: auto;
+}
+}
+.logo {
+    font-size: 2em;
+    color: gold;
+}

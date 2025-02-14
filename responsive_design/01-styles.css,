@@ -1,0 +1,13 @@
+ <li><a href="index.html">second</a></li>
+            <li><a href="tweet.html">Third</a></li>
+        </ul>
+        <ul>
+            <li class="logo">&#9733;</li> 
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+        </ul>
+    </header>
+    <main>
+        <article>
+
